@@ -1,0 +1,25 @@
+{
+  "name": "eth-decimal-converter",
+  "version": "1.0.0",
+  "description": "To convert wei into eth providing the decimals for the token. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsiGondal/eth-decimal-converter.git"
+  },
+  "keywords": [
+    "wei-converter eth-decimal-converter usdt-wei-converter"
+  ],
+  "author": "Muhammad Arsalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsiGondal/eth-decimal-converter/issues"
+  },
+  "homepage": "https://github.com/ArsiGondal/eth-decimal-converter#readme",
+  "dependencies": {
+    "bn.js": "^5.2.1"
+  }
+}
